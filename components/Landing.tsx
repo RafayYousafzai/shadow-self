@@ -35,7 +35,7 @@ const Landing: React.FC<LandingProps> = ({ onStart }) => {
           Shadow <span className="text-rose-500">Self</span>
         </div>
         <div className="hidden md:flex gap-6 text-xs font-semibold uppercase tracking-widest text-zinc-500">
-          <span>coderesults.tech</span>
+          <span>Rafay Khan</span>
         </div>
       </nav>
 
